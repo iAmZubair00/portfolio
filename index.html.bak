@@ -1,0 +1,792 @@
+<!doctype html>
+<html lang="en">
+    
+<!-- Mirrored from cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Nov 2021 17:04:22 GMT -->
+<head>
+        <title> Haris - Personal CV/Resume/Portfolio</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Haris Personal cv/resume template for professional and personal website." />
+        <meta name="keywords" content="creative, cv, designer,  online cv, online resume, powerful portfolio, professional, professional resume, responsive, resume, vcard " />
+        <meta name="developer" content="Muhammad Haris Javed">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+        <!-- FAV AND ICONS   -->
+        <link rel="shortcut icon" target="_blank"  href="assets/images/favicon.ico">
+        <link rel="shortcut icon" target="_blank"  href="assets/images/apple-icon.png">
+        <link rel="shortcut icon" sizes="72x72" target="_blank"  href="assets/images/apple-icon-72x72.png">
+        <link rel="shortcut icon" sizes="114x114" target="_blank"  href="assets/images/apple-icon-114x114.png">
+        
+        <!-- Google Font-->
+        <link target="_blank"  href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" target="_blank"  href="assets/icons/font-awesome-4.7.0/css/font-awesome.min.css">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" target="_blank"  href="assets/plugins/css/bootstrap.min.css">
+        <!-- Animate CSS-->
+        <link rel="stylesheet" target="_blank"  href="assets/plugins/css/animate.css">
+        <!-- Owl Carousel CSS-->
+        <link rel="stylesheet" target="_blank"  href="assets/plugins/css/owl.css">
+        <!-- Fancybox-->
+        <link rel="stylesheet" target="_blank"  href="assets/plugins/css/jquery.fancybox.min.css">
+        <!-- Custom CSS-->
+        <link rel="stylesheet" target="_blank"  href="assets/css/styles.css">
+        <link rel="stylesheet" target="_blank"  href="assets/css/responsive.css">
+        
+        <style>
+            .home-padding {
+                padding: 70px 0;
+            }
+            .section-separator{
+                align-items: center;
+            }
+            .project-img{
+                height: 200px;
+                width: 100%;
+            }
+            .project-card{
+                height: 450px;
+                
+            }
+            .project-card a{
+                position: absolute;
+                bottom: 15px;
+                
+            }
+        </style>
+
+    </head>
+    <body class="dark-vertion black-bg">
+        <!-- Start Loader -->
+        <div class="section-loader">
+            <div class="loader">
+                <div></div>
+                <div></div> 
+            </div>
+        </div>
+        <!-- End Loader -->
+        
+        <!--
+        ===================
+           NAVIGATION
+        ===================
+        -->
+        <header class="black-bg mh-header mh-fixed-nav nav-scroll mh-xs-mobile-nav wow fadeInUp" id="mh-header">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <nav class="navbar navbar-expand-lg mh-nav nav-btn">
+                      
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon icon"></span>
+                        </button>
+                    
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav mr-0 ml-auto">
+                                <li class="nav-item active">
+                                    <a class="nav-link"   href="#haris-home">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link"   href="#haris-about">About</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link"   href="#haris-education">Education</a>
+                                </li> 
+
+                                <li class="nav-item">
+                                   <a class="nav-link"   href="#haris-skills">Skills</a>
+                                </li>  
+                               
+                                
+                                <li class="nav-item">
+                                   <a class="nav-link"   href="#haris-experiance">Experiences</a>
+                                </li> 
+                                
+                                <li class="nav-item">
+                                    <a class="nav-link"   href="#haris-projects">Projects</a>
+                                 </li> 
+                                                             
+                                <li class="nav-item">
+                                    <a class="nav-link"   href="#haris-contact">Contact</a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        
+        <!--
+        ===================
+            HOME 
+        ===================
+        -->
+        <section class="mh-home" id="haris-home">
+            <div class="home-ovimg">
+                <div class="container">
+                    <div class="row xs-column-reverse section-separator vertical-middle-content home-padding">
+                        <div class="col-sm-6">
+                            <div class="mh-header-info">
+                                <div class="mh-promo wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">
+                                    <span>Hello I'm</span>
+                                </div>
+                                
+                                <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Haris</h2>
+                                <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">PHP (CODEIGNITER) , JAVSCRIPT (MERN) Developer</h4>
+                                
+                                <ul>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a target="_blank"  href="mailto:">mharis.javed1996@gmail.com</a></li>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><i class="fa fa-phone"></i><a target="_blank"  href="callto:">+92 315 7960589</a></li>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i class="fa fa-map-marker"></i><address>Multan, Punjab, Pakistan</address></li>
+                                </ul>
+                                
+                                <ul class="social-icon wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
+                                    <li><a target="_blank"  href="https://www.facebook.com/innocent.hashi1/"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a target="_blank"  href="https://github.com/harisjaved1996"
+                                        ><i class="fa fa-github"></i
+                                      ></a></li>
+                                    <li><a target="_blank"  href="https://www.linkedin.com/in/muhammad-haris-javed/"
+                                        ><i class="fa fa-linkedin"></i
+                                      ></a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="hero-img wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s">
+                                <div class="">
+                                    <img src="assets/images/skills-img.gif" alt=""  class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>   
+        
+        <!--
+        ==================
+            ABOUT
+        =================
+        -->
+        <section class="mh-about" id="haris-about">
+            <div class="container">
+                <div class="row section-separator">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="mh-about-img shadow-2 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
+                            <img src="assets/images/about.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="mh-about-inner">
+                            <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">About Me</h2>
+                            <p class="wow fadeInUp text-justify" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                                Hello, I’m a Haris.I am a Software developer with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development. While a student at BZU Multan, I studied Mathematics and Computer Sciences. I believe that my understanding of problem-solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer</p>
+                           
+                            <a target="_blank"  href="https://github.com/harisjaved1996/cv/blob/main/Haris%20-%20PHP%20(CI)%20%2C%20JAVASCRIPT%20(MERN).pdf" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">Downlaod CV <i class="fa fa-download"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+        <!-- education -->
+
+        <section class="mh-experince section-separator" id="haris-education">
+            <div class="bolor-overlay">
+                <div class="container">
+                    <h3 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Education</h3>
+                    <div class="row">
+                        
+                        <div class="col-md-6">
+                            <div class="mh-education">
+                                 
+                                <div class="mh-education-deatils">
+                                    <!-- Education Institutes-->
+                                    <div class="mh-education-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                                        <h4>Master of Computer Science  From <a>Bahauddin Zakariya University, Multan, Pakistan</a></h4>
+                                        <div class="mh-eduyear">2018 - 2020</div>
+                                        
+                                    </div>                                
+                                    
+                                                            
+                                   
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="mh-education">
+                                
+                                <div class="mh-education-deatils">
+                                                             
+                                    
+                                    <div class="mh-education-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s">
+                                        <h4>BSC double Math Phy From <a>Govt College Of Science, Multan , Pakistan</a></h4>
+                                        <div class="mh-eduyear">2016-2018</div>
+                                        
+                                    </div>                                
+                                   
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                   
+                </div>
+            </div>
+        </section>
+        
+             
+        
+        <!--
+        ===================
+           SKILLS
+        ===================
+        -->
+        <section class="mh-skills" id="haris-skills">
+            <div class="container">
+                <div class="row section-separator">
+                    <div class="section-title text-center col-sm-12">
+                        <!--<h2>Skills</h2>-->
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="mh-skills-inner">
+                            <div class="mh-professional-skill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                                <h3>Technical Skills</h3>
+                                <div class="each-skills">
+                                    <div class="mh-about-tag wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                                        <ul>
+                                            <li><span>MongoDB</span></li>
+                                            <li><span>Express JS</span></li>
+                                            <li><span>React JS</span></li>
+                                            <li><span>Node JS</span></li>
+                                            <li><span>Javascript</span></li>
+                                            <li><span>JQUERY</span></li>
+                                            <li><span>PHP</span></li>
+                                            <li><span>Codeigniter</span></li>
+                                            <li><span>MYSQL</span></li>
+                                            <li><span>Bootstrap</span></li>
+                                            <li><span>HTML</span></li>
+                                            <li><span>CSS</span></li>
+                                            <li><span>Wordpress</span></li>
+                                            <li><span>REST APIS</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="mh-professional-skills wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s">
+                            <h3>Professional Skills</h3>
+                            <ul class="mh-professional-progress" >
+                                <li>
+                                    <div class="mh-progress mh-progress-circle" data-progress="100"></div>
+                                    <div class="pr-skill-name">Communication</div>
+                                </li>
+                                <li>
+                                    <div class="mh-progress mh-progress-circle" data-progress="100"></div> 
+                                    <div class="pr-skill-name">Team Work</div>
+                                </li>
+                                <li>
+                                    <div class="mh-progress mh-progress-circle" data-progress="100"></div>
+                                    <div class="pr-skill-name">Project Management</div>
+                                </li> 
+                                <li>
+                                    <div class="mh-progress mh-progress-circle" data-progress="100"></div>
+                                    <div class="pr-skill-name">Creativity</div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+
+
+        <!--
+        ===================
+           EXPERIENCES
+        ===================
+        -->
+        <section class="mh-experince section-separator" id="haris-experiance">
+            <div class="bolor-overlay">
+                <div class="container">
+                    <div class="">
+                        <h3>Work Experience</h3>
+                        <div class="mh-work pl-0">
+                            
+                           <div class="mh-experience-deatils">
+                               <!-- Education Institutes-->
+                              <div class="row">
+                                <div class="col-md-6">
+                                    <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
+                                        <h4>FULL Stack Developer <a target="_blank"  href="https://www.thedevnation.com/">Devnation</a></h4>
+                                        
+                                        <span>Responsibility :</span>
+                                        <ul class="work-responsibility">
+                                            <li><i class="fa fa-circle"></i>Manage Backend (Node JS, Express JS ,MongoDB )</li>
+                                            <li><i class="fa fa-circle"></i>Manage Frontend (React , Redux , HTML , CSS ,  React bootstrap)</li>
+                                        </ul>
+                                    </div> 
+                               </div>
+                                <div class="col-md-6">
+                                    <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
+                                        <h4>Full Stack Developer <a target="_blank"  href="https://cyphersol.com/">Cyphersol</a></h4>
+                                        
+                                        <span>Responsibility :</span>
+                                        <ul class="work-responsibility">
+                                            <li><i class="fa fa-circle"></i>Manage Backend (PHP , Codeigniter , MYSQL)</li>
+                                            <li><i class="fa fa-circle"></i>Project Frontend (HTML , CSS , Javascript , Jquery , Bootstrap)</li>
+                                        </ul>
+                                    </div> 
+                               </div>                               
+                                
+                                
+                              </div>                              
+                           
+                           </div>
+                       </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+        
+        
+       
+      
+        
+        <!--
+        ===================
+           BLOG
+        ===================
+        -->
+        <section class="haris-projects" id="haris-projects">
+            <div class="container">
+                <div class="row section-separator">
+                    <div class="col-sm-12 section-title wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                        <h3>Projects</h3>
+                    </div>
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                         <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-memories.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Memories Project</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        <li><span class="badge badge-dark p-1">MongoDB</span></li>
+                                        <li><span class="badge badge-dark p-1">Node JS</span></li>
+                                        <li><span class="badge badge-dark p-1">Express JS</span></li>
+                                        <li><span class="badge badge-dark p-1">React JS</span></li>
+                                        <li><span class="badge badge-dark p-1">Redux</span></li>
+                                        <li><span class="badge badge-dark p-1">React Bootstrap</span></li>
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://haris-memories-project.netlify.app" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                           <img class="project-img" src="assets/images/haris-todos.jpg" alt="" class="img-fluid">
+                           <div class="blog-inner px-4 py-2">
+                               <h4>TO DOs App</h4>
+                               <span class="badge badge-danger p-1">Technologies</span>
+                               <div class="mh-blog-post-info">
+                                   <ul>
+                                       <li><span class="badge badge-dark p-1">React</span></li>
+                                       <li><span class="badge badge-dark p-1">HTML</span></li>
+                                       <li><span class="badge badge-dark p-1">CSS</span></li>
+                                       <li><span class="badge badge-dark p-1">JAVASCRIPT</span></li>                                       
+                                   </ul>
+                               </div>
+                               
+                               <a target="_blank"  href="https://haris-todos.netlify.app/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                           </div>
+                       </div>
+                   </div>
+
+                   <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                        <img class="project-img" src="assets/images/haris-mibarrio.jpg" alt="" class="img-fluid">
+                        <div class="blog-inner px-4 py-2">
+                            <h4>Mibbario Ecommerece Project (Development Phase)</h4>
+                            <span class="badge badge-danger p-1">Technologies</span>
+                            <div class="mh-blog-post-info">
+                                <ul>
+                                    <li><span class="badge badge-dark p-1">PHP</span></li>
+                                    <li><span class="badge badge-dark p-1">CODEIGNITER</span></li>
+                                    <li><span class="badge badge-dark p-1">MYSQL</span></li>
+                                    <li><span class="badge badge-dark p-1">HTML</span></li>
+                                    <li><span class="badge badge-dark p-1">CSS</span></li>
+                                    <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                    <li><span class="badge badge-dark p-1">JQUERY</span></li>
+                                    <li><span class="badge badge-dark p-1">AJAX</span></li>
+                                    <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                    
+                                </ul>
+                            </div>
+                            
+                            <a target="_blank"  href="https://project.cyphersol.com/mibarrio/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                        </div>
+                        </div>
+                   </div>
+
+
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-freelivebess.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Free LiveBees</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        <li><span class="badge badge-dark p-1">PHP</span></li>
+                                        <li><span class="badge badge-dark p-1">CODEIGNITER</span></li>
+                                        <li><span class="badge badge-dark p-1">MYSQL</span></li>
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                        <li><span class="badge badge-dark p-1">JQUERY</span></li>
+                                        <li><span class="badge badge-dark p-1">AJAX</span></li>
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://free-livebees.org/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-converted-closest.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Converted closest (Ecommerece)</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        <li><span class="badge badge-dark p-1">WORDPRESS</span></li>
+                                        <li><span class="badge badge-dark p-1">ELEMENTOR</span></li>
+                                        <li><span class="badge badge-dark p-1">PHP</span></li>
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://convertedcloset.shop/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-weather.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Weather App</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        <li><span class="badge badge-dark p-1">JAVASCRIPT</span></li>
+                                        <li><span class="badge badge-dark p-1">React</span></li>
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://haris-weather-app.netlify.app/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-meriwakalat.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Meriwakalat</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        <li><span class="badge badge-dark p-1">PHP</span></li>
+                                        <li><span class="badge badge-dark p-1">CODEIGNITER</span></li>
+                                        <li><span class="badge badge-dark p-1">MYSQL</span></li>
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                        <li><span class="badge badge-dark p-1">JQUERY</span></li>
+                                        <li><span class="badge badge-dark p-1">AJAX</span></li>
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://meriwakalat.com/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-geonest.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Geonest</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        <li><span class="badge badge-dark p-1">PHP</span></li>
+                                        <li><span class="badge badge-dark p-1">CODEIGNITER</span></li>
+                                        <li><span class="badge badge-dark p-1">MYSQL</span></li>
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                        <li><span class="badge badge-dark p-1">JQUERY</span></li>
+                                        <li><span class="badge badge-dark p-1">AJAX</span></li>
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://geonest.org/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-devnation.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Devnation Clone</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                        <li><span class="badge badge-dark p-1">JQUERY</span></li>
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://haris-devnation-clone.netlify.app/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-gym.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Fanvo</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                        <li><span class="badge badge-dark p-1">JQUERY</span></li>
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://github.com/harisjaved1996/fanvo" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-sm-12 col-md-4 mb-4">
+                        <div class="mh-blog-item dark-bg wow fadeInUp project-card" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <img class="project-img" src="assets/images/haris-quizz.jpg" alt="" class="img-fluid">
+                            <div class="blog-inner px-4 py-2">
+                                <h4>Quizz Task</h4>
+                                <span class="badge badge-danger p-1">Technologies</span>
+                                <div class="mh-blog-post-info">
+                                    <ul>
+                                        
+                                        
+                                        <li><span class="badge badge-dark p-1">HTML</span></li>
+                                        <li><span class="badge badge-dark p-1">CSS</span></li>
+                                        <li><span class="badge badge-dark p-1">JAVSCRIPT</span></li>
+                                        
+                                        <li><span class="badge badge-dark p-1">BOOTSTRAP</span></li>
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <a target="_blank"  href="https://haris-quizz-app.netlify.app/" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.4s; animation-name: fadeInUp;">Visit</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </section>        
+        
+        <!--
+        ===================
+           TESTIMONIALS
+        ===================
+        -->
+      
+        
+        <!--
+        ===================
+           FOOTER 1
+        ===================
+        -->
+        <footer class="haris-contact" id="haris-contact">
+            <div class="map-image image-bg">
+                <div class="container">
+                    <div class="row section-separator">
+                        <div class="col-sm-12 section-title wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
+                            <h3>Contact Me</h3>
+                        </div>
+                        <div class="col-sm-12 mh-footer-address">
+                            <div class="row">
+                                <div class="col-sm-12 col-md-4">
+                                    <div class="mh-address-footer-item dark-bg shadow-1 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                                        <div class="each-icon">
+                                            <i class="fa fa-location-arrow"></i>
+                                        </div>
+                                        <div class="each-info">
+                                            <h4>Address</h4>
+                                            <address>
+                                                Multan , Punjab , Pakistan
+                                            </address>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12 col-md-4">
+                                    <div class="mh-address-footer-item dark-bg shadow-1 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s">
+                                        <div class="each-icon">
+                                            <i class="fa fa-envelope-o"></i>
+                                        </div>
+                                        <div class="each-info">
+                                            <h4>Email</h4>
+                                            <a target="_blank"  href="mailto:mharis.javed1996@gmail.com">mharis.javed1996@gmail.com</a><br>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12 col-md-4">
+                                    <div class="mh-address-footer-item dark-bg shadow-1 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
+                                        <div class="each-icon">
+                                            <i class="fa fa-phone"></i>
+                                        </div>
+                                        <div class="each-info">
+                                            <h4>Phone</h4>
+                                            <a>+92 315 7960589</a><br>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                       
+                        <div class="col-sm-12 mh-copyright wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
+                            <div class="row justify-content-center">
+                               
+                                <div class="col text-center">
+                                    <ul class="social-icon">
+                                        <li><a target="_blank"  href="https://www.facebook.com/innocent.hashi1/"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a target="_blank"  href="https://www.linkedin.com/in/muhammad-haris-javed/"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a target="_blank"  href="https://github.com/harisjaved1996"><i class="fa fa-github"></i></a></li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>     
+    
+    <!--
+    ==============
+    * JS Files *
+    ==============
+    -->
+    
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    
+    <!-- jQuery -->
+    <script src="assets/plugins/js/jquery.min.js"></script>
+    <!-- popper -->
+    <script src="assets/plugins/js/popper.min.js"></script>
+    <!-- bootstrap -->
+    <script src="assets/plugins/js/bootstrap.min.js"></script>
+    <!-- owl carousel -->
+    <script src="assets/plugins/js/owl.carousel.js"></script>
+    <!-- validator -->
+    <script src="assets/plugins/js/validator.min.js"></script>
+    <!-- wow -->
+    <script src="assets/plugins/js/wow.min.js"></script>
+    <!-- mixin js-->
+    <script src="assets/plugins/js/jquery.mixitup.min.js"></script>
+    <!-- circle progress-->
+    <script src="assets/plugins/js/circle-progress.js"></script>
+    <!-- jquery nav -->
+    <script src="assets/plugins/js/jquery.nav.js"></script>
+    <!-- Fancybox js-->
+    <script src="assets/plugins/js/jquery.fancybox.min.js"></script>
+    <!-- isotope js-->
+    <script src="assets/plugins/js/isotope.pkgd.js"></script>
+    <script src="assets/plugins/js/packery-mode.pkgd.js"></script>
+    <!-- Map api -->
+    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyCRP2E3BhaVKYs7BvNytBNumU0MBmjhhxc"></script>
+    <!-- Custom Scripts-->
+    <script src="assets/js/map-init.js"></script>
+    <script src="assets/js/custom-scripts.js"></script>
+    
+
+    <!-- ****************
+      After neccessary customization/modification, Please minify 
+      JavaScript/jQuery according to http://browserdiet.com/en/ for better performance
+    **************** -->
+    <!-- STYLE SWITCH STYLESHEET ONLY FOR DEMO -->
+    <link rel="stylesheet" target="_blank"  href="demo/demo.css">
+    <script type="text/javascript" src="demo/styleswitcher.js"></script>
+    <script type="text/javascript" src="demo/demo.js"></script>
+       
+    
+    
+    </div>
+</body>
+
+<!-- Mirrored from cvresumetemplate.com/maha-personal-cv-resume-html-template/home-one.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 27 Nov 2021 17:04:57 GMT -->
+</html>
